@@ -6,7 +6,7 @@
 const int baudMain = 115200;
 const int baudSub = 9600;
 
-const bool flagDevelopment = false;
+const bool flagDevelopment = true;
 
 bool flagReady = false;
 bool isReadyScanner = false;
